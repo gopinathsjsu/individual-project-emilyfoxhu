@@ -1,0 +1,17 @@
+{
+  "CardNumber" : "5410000000000000",
+  "Type" : "Master Card",
+  "ERRORMessage" : ""
+}{
+  "CardNumber" : "4120000000000",
+  "Type" : "Visa Card",
+  "ERRORMessage" : ""
+}{
+  "CardNumber" : "341000000000000",
+  "Type" : "AmericanExpress Card",
+  "ERRORMessage" : ""
+}{
+  "CardNumber" : "6010000000000000",
+  "Type" : "invalid",
+  "ERRORMessage" : "ERROR:InvalidNumber"
+}

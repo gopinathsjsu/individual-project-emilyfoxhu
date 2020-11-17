@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <row>
+        <CardNumber>5410000000000000</CardNumber>
+        <Type>Master Card</Type>
+        <ERRORMessage/>
+    </row>
+    <row>
+        <CardNumber>4120000000000</CardNumber>
+        <Type>Visa Card</Type>
+        <ERRORMessage/>
+    </row>
+    <row>
+        <CardNumber>341000000000000</CardNumber>
+        <Type>AmericanExpress Card</Type>
+        <ERRORMessage/>
+    </row>
+    <row>
+        <CardNumber>6010000000000000</CardNumber>
+        <Type>invalid</Type>
+        <ERRORMessage>ERROR:InvalidNumber</ERRORMessage>
+    </row>
+</root>

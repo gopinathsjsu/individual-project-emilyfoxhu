@@ -1,0 +1,5 @@
+CardNumber,Type,ERRORMessage
+5410000000000000,Master Card
+4120000000000,Visa Card
+341000000000000,AmericanExpress Card
+6010000000000000,invalid,ERROR:InvalidNumber
